@@ -1,0 +1,9 @@
+[package]
+name = "crowdfund"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# soroban-sdk= "20.0.0-rc3"
+soroban-token-sdk= "20.0.0-rc3"
+soroban-sdk = "0.1.0"
